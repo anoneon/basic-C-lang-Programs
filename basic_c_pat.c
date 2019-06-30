@@ -1,4 +1,5 @@
 // BASIC TRIANGLE PATTERNS
+
 #include<stdio.h>
 #include<conio.h>
 

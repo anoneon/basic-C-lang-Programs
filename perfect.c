@@ -1,3 +1,5 @@
+// perfect number or not
+
 #include<stdio.h>
 #include<conio.h>
  void main()

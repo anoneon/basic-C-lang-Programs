@@ -1,4 +1,4 @@
-// using array
+/* pascal triangle using array */
 #include<stdio.h>
 #include<conio.h>
 void main()

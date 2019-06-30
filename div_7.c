@@ -1,3 +1,5 @@
+// sum of number div by 7 upto nth term
+
 #include<stdio.h>
 #include<conio.h>
 void main()

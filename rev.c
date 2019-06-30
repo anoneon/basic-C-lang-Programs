@@ -1,3 +1,5 @@
+// reversing a given number
+
 #include<stdio.h>
 #include<conio.h>
 void main()

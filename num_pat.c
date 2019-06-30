@@ -1,3 +1,5 @@
+//number patterns dsign
+
 #include<stdio.h>
 #include<conio.h>
 int main()

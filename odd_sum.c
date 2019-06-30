@@ -1,3 +1,5 @@
+//sum of odd numbers upto n
+
 #include<stdio.h>
 #include<conio.h>
 void main()

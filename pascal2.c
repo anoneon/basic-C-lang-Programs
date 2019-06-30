@@ -1,4 +1,5 @@
-// using formula (m*(i-j+1))/j
+// pascal triangle using formula (m*(i-j+1))/j
+
 #include<stdio.h>
 #include<conio.h>
 void main()
