@@ -1,3 +1,5 @@
+// pi/4=1-(1/3)+(1/5)-(1/7)+.....+k
+
 #include<stdio.h>
 #include<conio.h>
 

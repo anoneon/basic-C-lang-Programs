@@ -1,3 +1,5 @@
+//binary to decimal
+
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>

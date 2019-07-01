@@ -1,3 +1,5 @@
+// sum = x-(x^3/3!) + (x^5/5!) - .... (x^n/n!)
+
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
