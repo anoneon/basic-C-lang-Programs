@@ -1,2 +1,1 @@
-c practice programs
-mug up
+# C language programs for practice
